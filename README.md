@@ -5,7 +5,7 @@
 Для клонирования репозитория необходимо перейти в любую удобную директорию и выполнить команду в терминале:
 
 ```no-highlight
-https://github.com/voronkov44/body-calculator.git
+git clone https://github.com/voronkov44/body-calculator.git
 ```
 
 Затем необходимо перейти в корневую директорию проекта:
