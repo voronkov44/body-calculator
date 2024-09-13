@@ -8,11 +8,6 @@
 git clone https://github.com/voronkov44/body-calculator.git
 ```
 
-Затем необходимо перейти в корневую директорию проекта:
-
-```no-highlight
-cd yadro_test
-```
 
 ## **Использование**
 
